@@ -20,3 +20,7 @@ function showLyric() {
     showLyricButton.children[0].innerHTML = "Xem lời";
   }
 }
+
+function direct() {
+  location.href = './test.html';
+}

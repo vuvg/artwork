@@ -1,5 +1,5 @@
 body {
-  background-image: url(../daisy2.jpg);
+  background-image: url(../img/daisy2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -18,11 +18,14 @@ h3 {
   color: #11324D;
 }
 
-.content {
-
-
+.lyric > p {
+  padding-left: 2%;
 }
 
-.content > p {
-  padding-left: 2%;
+
+.showLyric > label {
+  color: blue;
+}
+.showLyric > label:hover {
+  cursor: pointer;
 }

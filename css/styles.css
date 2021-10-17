@@ -1,0 +1,28 @@
+body {
+  background-image: url(../daisy2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+hr {
+  width: 30%;
+  border-style: dotted none none none;
+  border-width: thick;
+}
+
+h1, h2 {
+  color: #11324D;
+}
+
+h3 {
+  color: #11324D;
+}
+
+.content {
+
+
+}
+
+.content > p {
+  padding-left: 2%;
+}
